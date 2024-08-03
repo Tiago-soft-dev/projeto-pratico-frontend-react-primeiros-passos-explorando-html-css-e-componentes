@@ -1,0 +1,22 @@
+.card{
+    box-sizing: border-box;
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 300px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;   
+    align-items: center;
+    background-color: beige;
+    
+}
+
+.card h2{
+    text-align: center;
+}
+
+.card img {
+    width: 250px;
+    padding: 10px;
+    border-radius: 8px;    
+}
