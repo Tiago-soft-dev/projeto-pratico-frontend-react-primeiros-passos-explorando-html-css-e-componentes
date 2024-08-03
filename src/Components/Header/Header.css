@@ -1,0 +1,9 @@
+.header {
+    border: 2px solid green;
+    padding: 10px;
+    text-align: center;
+    background-color: darkgreen;
+    color: yellow;
+    margin-bottom: 10px;
+    border-radius: 10px;
+}
